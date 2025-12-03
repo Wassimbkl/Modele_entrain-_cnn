@@ -9,7 +9,6 @@ Fonctionnalités
 
 - Détection d’émotions à partir d’une image (`predict_image_v2.py`)
 - Modèle entraîné avec un CNN amélioré (V2)
-- Architecture légère compatible Raspberry Pi
 - 7 classes d’émotions :
   - angry
   - disgust
